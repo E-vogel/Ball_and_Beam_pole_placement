@@ -48,3 +48,6 @@ The simulation allows **interactive adjustments of the control poles**, enabling
 - **Visualization**:  
   - **Left Panel**: Animation of the beam and the ball.
   - **Right Panel**: Pole locations in the complex plane. Adjusting the poles here directly affects the controller.
+
+## Output
+![ball_and_beam_output](https://github.com/user-attachments/assets/7b69d089-829a-414a-9423-a4cff048f482)
