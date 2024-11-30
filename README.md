@@ -27,9 +27,8 @@ The simulation allows **interactive adjustments of the control poles**, enabling
 
 ## Requirements
 
-- MATLAB R2020b or later
+- MATLAB
 - Control System Toolbox (for pole placement functionality)
-- Compatible with Windows, macOS, and Linux versions of MATLAB.
 
 ---
 
@@ -44,11 +43,6 @@ The simulation allows **interactive adjustments of the control poles**, enabling
 
 ## Simulation Details
 
-- **State Variables**:
-  1. \( x \): Ball position on the beam.
-  2. \( \dot{x} \): Ball velocity.
-  3. \( \theta \): Beam angle.
-  4. \( \dot{\theta} \): Beam angular velocity.
 - **Controller**:  
   A feedback controller is designed using pole placement to stabilize the ball and beam system.
 - **Visualization**:  
