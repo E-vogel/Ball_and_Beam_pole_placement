@@ -8,16 +8,6 @@ The simulation allows **interactive adjustments of the control poles**, enabling
 
 ---
 
-## Features
-
-- **State-space modeling**: The system is modeled using linear state-space equations.
-- **Pole placement control**: Uses MATLAB's `place` function for control system design.
-- **Real-time visualization**: Animates the ball and beam motion and visualizes the control poles in the complex plane.
-- **Interactive pole adjustment**: Drag poles in the complex plane to dynamically change the controller, and see the effects on the system in real-time.
-- **Simulation termination**: Exit the simulation by pressing the `Escape` key.
-
----
-
 ## Files
 
 - **`ball_and_beam_pole.m`**  
