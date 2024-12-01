@@ -12,7 +12,7 @@ state = 0; % Interaction state variable
 fin = 0;   % Simulation end flag
 
 % Physical constants
-g = 9.81;  % Gravitational acceleration [m/s^2]
+g = -9.81;  % Gravitational acceleration [m/s^2]
 M = 1;     % Mass of the beam [kg]
 L = 2;     % Length of the beam [m]
 
